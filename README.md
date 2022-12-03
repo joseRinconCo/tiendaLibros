@@ -132,7 +132,7 @@ Repositorio de Código Github
 
 
 >> * [Github Esteicy Manrrique]()
->> * [Diana Manrrique]()
+>> * [Github Diana Manrrique]()
 >> * [Github Elkin Guerrero](https://github.com/elkinguerrero007)
 >> * [Github neyder Torres]()
 >> * [Github Jose Rincon]()
