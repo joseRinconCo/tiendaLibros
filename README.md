@@ -135,5 +135,5 @@ Repositorio de Código Github
 >> * [Github Esteicy Manrrique]()
 >> * [Github Diana Manrrique]()
 >> * [Github Elkin Guerrero](https://github.com/elkinguerrero007)
->> * [Github neyder Torres]()
+>> * [Github Neyder Torres]()
 >> * [Github Jose Rincon](https://github.com/joseRinconCo)
