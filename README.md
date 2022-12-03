@@ -46,61 +46,61 @@ Reflexionar sobre las obras leídas
 
 ## [Requerimientos Funcionales]() 👌
 
- ~~~~
 
-Se requiere una aplicación Web SPA (SINGLE PAGE APPLICACTION) para administrar un catálogo virtual de libros e información paramétrica, permitiendo a los usuarios registrados consultar información general de los libros bajo diferentes criterios, registrar su opinión y calificación sobre los libros del catálogo. 
 
-La aplicación contara con un perfil Administrador y un perfil Usuario, algunas funcionalidades estarán disponibles para ambos, perfiles; pero la Administración del catalogo e información relacionada será de uso exclusivo del perfil administrador. 
+>> *Se requiere una aplicación Web SPA (SINGLE PAGE APPLICACTION) para administrar un catálogo virtual de libros e información paramétrica, permitiendo a los usuarios registrados consultar información general de los libros bajo diferentes criterios, registrar su opinión y calificación sobre los libros del catálogo. 
 
-Todas las opciones disponibles en la aplicación requerirán de autenticación previa. 
+>> *La aplicación contara con un perfil Administrador y un perfil Usuario, algunas funcionalidades estarán disponibles para ambos, perfiles; pero la Administración del catalogo e información relacionada será de uso exclusivo del perfil administrador. 
 
->> * Opciones Generales:  
+>> *Todas las opciones disponibles en la aplicación requerirán de autenticación previa. 
 
-* Autenticar usuario 
+`Opciones Generales:`  
 
-* Cambio de contraseña 
+`Autenticar usuario` 
 
-Perfil Administrador: El administrador del sistema tendrá el privilegio de administrar (operaciones CRUD) la siguiente información: 
+`Cambio de contraseña` 
 
-Administración de datos (CRUD) 
+>> * Perfil Administrador: El administrador del sistema tendrá el privilegio de administrar (operaciones CRUD) la siguiente información: 
 
-Categorías género: Nombre del Genero 
+>> * Administración de datos (CRUD) 
 
-Autores: Nombres y apellidos del autor 
+>> *Categorías género: Nombre del Genero 
 
-Catálogo de Libros 
+>> * Autores: Nombres y apellidos del autor 
 
-Usuarios 
+>> * Catálogo de Libros 
 
-Consultas 
+`Usuarios` 
 
-La aplicación contará con diferentes opciones de consulta de libros, dentro de las cuales se encuentran las siguientes: 
+`Consultas` 
 
-Listar catálogo de libros x categoría o genero 
+>> * La aplicación contará con diferentes opciones de consulta de libros, dentro de las cuales se encuentran las siguientes: 
 
-Listar catálogo de libros x autor 
+>> * Listar catálogo de libros x categoría o genero 
 
-Listar catálogo de libros – Opción Índice 
+>> * Listar catálogo de libros x autor 
 
-Listar catálogo de libros x rango de precios (el precio registrado es el promedio en las librerías) 
+>> * Listar catálogo de libros – Opción Índice 
 
-Perfil Usuario Autenticado (Independiente de su perfil) 
+>> * Listar catálogo de libros x rango de precios (el precio registrado es el promedio en las librerías) 
 
-Reseñar Libros y calificar libros: Previa autenticación, consulta y selección de un libro del catálogo, un usuario podrá registrar una opinión orientada a justificar la razón por la cual una obra debería ser considerada en un futuro cercano como material de lectura y análisis e indicar una puntuación basado en la siguiente escala: 
+>> * Perfil Usuario Autenticado (Independiente de su perfil) 
 
-Excelente 
+>> * Reseñar Libros y calificar libros: Previa autenticación, consulta y selección de un libro del catálogo, un usuario podrá registrar una opinión orientada a justificar la razón por la cual una obra debería ser considerada en un futuro cercano como material de lectura y análisis e indicar una puntuación basado en la siguiente escala: 
 
-Bueno 
+`Excelente` 
 
-Regular 
+`Bueno` 
 
-Malo 
+`Regular` 
+
+`Malo` 
 
  
 
-Un usuario solamente podrá indicar puntuación y registrar opinión una sola vez por cada libro, y una vez registrada no podrá modificarla (la primera opinión es). 
+>> * Un usuario solamente podrá indicar puntuación y registrar opinión una sola vez por cada libro, y una vez registrada no podrá modificarla (la primera opinión es). 
 
- ~~~~
+
 ## [Requerimientos NO Funcionales]() 🛠️
 
  ~~~~
