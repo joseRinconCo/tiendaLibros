@@ -64,7 +64,7 @@ Reflexionar sobre las obras leídas
 
 >> * Administración de datos (CRUD) 
 
->> *Categorías género: Nombre del Genero 
+>> * Categorías género: Nombre del Genero 
 
 >> * Autores: Nombres y apellidos del autor 
 
