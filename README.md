@@ -128,7 +128,7 @@ Repositorio de Código Github
 # Colaboradores  🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁
 
 
->> * [Github Diana Manrrique]() ![image](https://user-images.githubusercontent.com/85587286/205419504-64b45573-0012-410c-b675-a6d26ff7a7c9.png) ![image](https://user-images.githubusercontent.com/85587286/205419589-baa2f6a5-ddfd-46c2-a5c2-e0ef946769f7.png) ![image](https://user-images.githubusercontent.com/85587286/205419635-c4146fd2-1ef2-48a7-9ea4-0d89fcd9c9b8.png) ![image](https://user-images.githubusercontent.com/85587286/205419642-d1d70ff2-a0fc-4d9a-944a-ce1e4d83b3c3.png) ![image](https://user-images.githubusercontent.com/85587286/205419673-df816e64-b4f1-4321-9029-a66d6052f1a9.png)
+>> * [Github Diana Manrrique]()  ![image](https://user-images.githubusercontent.com/85587286/205419635-c4146fd2-1ef2-48a7-9ea4-0d89fcd9c9b8.png) ![image](https://user-images.githubusercontent.com/85587286/205419642-d1d70ff2-a0fc-4d9a-944a-ce1e4d83b3c3.png) ![image](https://user-images.githubusercontent.com/85587286/205419673-df816e64-b4f1-4321-9029-a66d6052f1a9.png)
 
 
 
