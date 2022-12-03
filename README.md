@@ -101,7 +101,7 @@ Reflexionar sobre las obras leídas
 >> * Un usuario solamente podrá indicar puntuación y registrar opinión una sola vez por cada libro, y una vez registrada no podrá modificarla (la primera opinión es). 
 
 
-## [Requerimientos NO Funcionales]() 🛠️
+## [Requerimientos NO Funcionales]() 🛠️ 🛠️ 🛠️
 
  ~~~~
 
