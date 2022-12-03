@@ -100,10 +100,10 @@ Malo
 
 Un usuario solamente podrá indicar puntuación y registrar opinión una sola vez por cada libro, y una vez registrada no podrá modificarla (la primera opinión es). 
 
- 
+ ~~~~
 ## Requerimientos NO Funcionales 
 
- 
+ ~~~~
 
 Look and feel. Descripción: El aspecto del aplicativo debe ser consistente en todas sus páginas, además de amigable e intuitivo hacia el usuario. 
 
