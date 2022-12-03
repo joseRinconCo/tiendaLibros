@@ -9,6 +9,7 @@
 
  
 
+
 Centro Cultural Lennon lleva más de 10 años fomentando el gusto por la lectura mediante la creación de comunidades o grupos que se reúnen periódicamente para comentar libros leídos en casa o en las salas de lectura con las que cuenta el centro, está diseñado para aprender y descubrir junto a tus amigos el maravilloso mundo de la lectura y compartir lindas experiencias. 
 
 En las reuniones se comenta lo leído y el impacto que ha tenido en lector: temáticas, estilo, acción, personajes y, por supuesto, sentimientos o reflexiones evocados por el texto, no es una reunión para especialistas en crítica literaria ni para profesores de literatura sino para lectores comunes. 
