@@ -101,7 +101,9 @@ Reflexionar sobre las obras leídas
 >> * Un usuario solamente podrá indicar puntuación y registrar opinión una sola vez por cada libro, y una vez registrada no podrá modificarla (la primera opinión es). 
 
 
-## [Requerimientos NO Funcionales]() 🛠️ 🛠️ 🛠️
+~~~~
+
+## [Requerimientos NO Funcionales]()
 
  ~~~~
 
@@ -109,7 +111,9 @@ Look and feel. Descripción: El aspecto del aplicativo debe ser consistente en t
 
 Seguridad. descripción: El protocolo o librería usado, para manejar la seguridad en la sesión del usuario debe ser lo suficientemente confiable. 
 
-## Tecnologías a Utilizar 
+~~~~
+
+## Tecnologías a Utilizar 🛠️ 🛠️ 🛠️
 
 Backend: MongoDB, Spring Boot 
 
