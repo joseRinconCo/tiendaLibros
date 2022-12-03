@@ -54,7 +54,7 @@ La aplicación contara con un perfil Administrador y un perfil Usuario, algunas 
 
 Todas las opciones disponibles en la aplicación requerirán de autenticación previa. 
 
-* Opciones Generales:  
+>> * Opciones Generales:  
 
 * Autenticar usuario 
 
