@@ -5,8 +5,8 @@
 # Colaboradores
 
 
->> * [Diana Manrrique]()
->> * [Esteicy Manrrique]()
->> * [Elkin Guerrero](https://github.com/elkinguerrero007)
->> * [neyder Torres]()
->> * [Jose Rincon]()
+>> * [Github Diana Manrrique]()
+>> * [Github Esteicy Manrrique]()
+>> * [Github Elkin Guerrero](https://github.com/elkinguerrero007)
+>> * [Github neyder Torres]()
+>> * [Github Jose Rincon]()
