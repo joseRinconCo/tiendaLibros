@@ -88,13 +88,13 @@ Reflexionar sobre las obras leídas
 
 >> * Reseñar Libros y calificar libros: Previa autenticación, consulta y selección de un libro del catálogo, un usuario podrá registrar una opinión orientada a justificar la razón por la cual una obra debería ser considerada en un futuro cercano como material de lectura y análisis e indicar una puntuación basado en la siguiente escala: 
 
-`Excelente` 
+>> * `Excelente` 
 
-`Bueno` 
+>> * `Bueno` 
 
-`Regular` 
+>> * `Regular` 
 
-`Malo` 
+>> * `Malo` 
 
  
 
