@@ -125,7 +125,7 @@ Repositorio de Código Github
 
 ~~~~
  
-# Colaboradores  🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁
+# Colaboradores  🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁
 
 
 >> * [Github Diana Manrrique]()
