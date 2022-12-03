@@ -128,7 +128,7 @@ Repositorio de Código Github
 # Colaboradores  🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁
 
 
->> * [Github Diana Manrrique]() ![image](https://user-images.githubusercontent.com/85587286/205419504-64b45573-0012-410c-b675-a6d26ff7a7c9.png)
+>> * [Github Diana Manrrique]() ![image](https://user-images.githubusercontent.com/85587286/205419504-64b45573-0012-410c-b675-a6d26ff7a7c9.png) ![image](https://user-images.githubusercontent.com/85587286/205419504-64b45573-0012-410c-b675-a6d26ff7a7c9.png)
 
 >> * [Github Esteicy Manrrique]()
 >> * [Github Elkin Guerrero](https://github.com/elkinguerrero007)
