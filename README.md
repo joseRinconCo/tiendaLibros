@@ -54,11 +54,11 @@ La aplicación contara con un perfil Administrador y un perfil Usuario, algunas 
 
 Todas las opciones disponibles en la aplicación requerirán de autenticación previa. 
 
-Opciones Generales:  
+* Opciones Generales:  
 
-Autenticar usuario 
+* Autenticar usuario 
 
-Cambio de contraseña 
+* Cambio de contraseña 
 
 Perfil Administrador: El administrador del sistema tendrá el privilegio de administrar (operaciones CRUD) la siguiente información: 
 
