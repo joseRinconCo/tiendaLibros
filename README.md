@@ -54,11 +54,11 @@ Reflexionar sobre las obras leídas
 
 >> * Todas las opciones disponibles en la aplicación requerirán de autenticación previa. 
 
-`Opciones Generales:`  
+>> * `Opciones Generales:`  
 
-`Autenticar usuario` 
+>> * `Autenticar usuario` 
 
-`Cambio de contraseña` 
+>> * `Cambio de contraseña` 
 
 >> * Perfil Administrador: El administrador del sistema tendrá el privilegio de administrar (operaciones CRUD) la siguiente información: 
 
@@ -70,9 +70,9 @@ Reflexionar sobre las obras leídas
 
 >> * Catálogo de Libros 
 
-`Usuarios` 
+>> * `Usuarios` 
 
-`Consultas` 
+>> * `Consultas` 
 
 >> * La aplicación contará con diferentes opciones de consulta de libros, dentro de las cuales se encuentran las siguientes: 
 
