@@ -135,4 +135,4 @@ Repositorio de Código Github
 >> * [Github Diana Manrrique]()
 >> * [Github Elkin Guerrero](https://github.com/elkinguerrero007)
 >> * [Github neyder Torres]()
->> * [Github Jose Rincon]()
+>> * [Github Jose Rincon](https://github.com/joseRinconCo)
