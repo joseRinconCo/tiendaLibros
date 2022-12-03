@@ -5,7 +5,7 @@
  
  
 
-## Descripción Proyecto (Mundo del Proyecto) 
+## Descripción Proyecto (Mundo del Proyecto) 👈
 
  
 
@@ -20,7 +20,7 @@ Es importante resaltar que Centro Cultural Lennon no realiza venta o distribuci�
 
  ~~~~
 
-## Objetivo General 
+## Objetivo General 🏁🏁🏁
 
  ~~~~
 
@@ -29,7 +29,7 @@ Crear una aplicación que permita la administración de libros sugeridos como ma
 ~~~~
  
 
-## Objetivos Específicos 
+## Objetivos Específicos 📑
 
  ~~~~
 
@@ -44,7 +44,7 @@ Reflexionar sobre las obras leídas
 ~~~~ 
  
 
-## Requerimientos Funcionales 
+## Requerimientos Funcionales 👌
 
  ~~~~
 
