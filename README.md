@@ -48,11 +48,11 @@ Reflexionar sobre las obras leídas
 
 
 
->> *Se requiere una aplicación Web SPA (SINGLE PAGE APPLICACTION) para administrar un catálogo virtual de libros e información paramétrica, permitiendo a los usuarios registrados consultar información general de los libros bajo diferentes criterios, registrar su opinión y calificación sobre los libros del catálogo. 
+>> * Se requiere una aplicación Web SPA (SINGLE PAGE APPLICACTION) para administrar un catálogo virtual de libros e información paramétrica, permitiendo a los usuarios registrados consultar información general de los libros bajo diferentes criterios, registrar su opinión y calificación sobre los libros del catálogo. 
 
->> *La aplicación contara con un perfil Administrador y un perfil Usuario, algunas funcionalidades estarán disponibles para ambos, perfiles; pero la Administración del catalogo e información relacionada será de uso exclusivo del perfil administrador. 
+>> * La aplicación contara con un perfil Administrador y un perfil Usuario, algunas funcionalidades estarán disponibles para ambos, perfiles; pero la Administración del catalogo e información relacionada será de uso exclusivo del perfil administrador. 
 
->> *Todas las opciones disponibles en la aplicación requerirán de autenticación previa. 
+>> * Todas las opciones disponibles en la aplicación requerirán de autenticación previa. 
 
 `Opciones Generales:`  
 
